@@ -1,0 +1,10 @@
+.cardmain{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.bodyfull{
+  padding: 40px;
+}
